@@ -15,3 +15,7 @@ To install these in windows:
    pip install mediapipe
 
 As a pre-requisite, python should be already installed on the system.
+
+The source code lies in 2 files, both written in Python, VolumeControl.py and handModule.py.
+
+To run the application keep both files in the same directory and then execute VolumeControl.py.
