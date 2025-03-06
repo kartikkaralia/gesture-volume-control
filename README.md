@@ -19,3 +19,12 @@ As a pre-requisite, python should be already installed on the system.
 The source code lies in 2 files, both written in Python, VolumeControl.py and handModule.py.
 
 To run the application keep both files in the same directory and then execute VolumeControl.py.
+
+Some instances from the application runtime are shown as below.
+
+
+![cam_off](https://github.com/user-attachments/assets/ef517d40-0514-40ce-bad1-f647172de071)
+
+
+![cam_on](https://github.com/user-attachments/assets/0bbefa4e-34f6-4734-a277-a81db82a6a00)
+
