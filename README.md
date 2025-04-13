@@ -23,8 +23,5 @@ To run the application keep both files in the same directory and then execute Vo
 Some instances from the application runtime are shown as below.
 
 
-![cam_off](https://github.com/user-attachments/assets/ef517d40-0514-40ce-bad1-f647172de071)
-
-
 ![cam_on](https://github.com/user-attachments/assets/0bbefa4e-34f6-4734-a277-a81db82a6a00)
 
